@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1541098222 source:c:\users\mohamed\desktop\algorithms\big\main.cpp
+	<iostream>
+	"Bigint.h"
+
+1541098209 source:c:\users\mohamed\desktop\algorithms\big\src\bigint.cpp
+	"Bigint.h"
+	<iostream>
+	<string>
+
+1541097624 c:\users\mohamed\desktop\algorithms\big\include\bigint.h
+	<string.h>
+	<iostream>
+
