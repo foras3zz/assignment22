@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1540562476 source:c:\users\mohamed\desktop\algorithms\assignment 2\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1540562293 c:\users\mohamed\desktop\algorithms\assignment 2\include\matrix.h
+	<iostream>
+
+1540562391 source:c:\users\mohamed\desktop\algorithms\assignment 2\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1540562293 c:\users\mohamed\desktop\algorithms\assignment 2\matrix.h
+	<iostream>
+
